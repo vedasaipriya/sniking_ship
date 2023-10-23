@@ -33,16 +33,29 @@ Print n lines. The i-th of them should contain the name of the crew member who m
 Example
 
 input:
+
 6
+
 Jack Captain
+
 Alice woman
+
 Charlie man 
+
 Teddy rat 
+
 Bob child 
+
 Julia woman
 
+
+
 output:
+
 Teddy
+
 Alice
+
 Bob julia Charlie
+
 Jack
