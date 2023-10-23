@@ -56,6 +56,10 @@ Teddy
 
 Alice
 
-Bob julia Charlie
+Bob 
+
+julia 
+
+Charlie
 
 Jack
